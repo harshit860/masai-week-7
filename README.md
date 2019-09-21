@@ -1,10 +1,9 @@
-## WEEK 7 PROJECT
-___
+# WEEK 7 PROJECT
 
-# Harshit Gakhar
+## Harshit Gakhar
 
 ## FlipKart React Project
 
-## Motivation
+## Flipkart is an E-commerce website.
 
 ![Image ](https://i.imgur.com/RzwvJAt.png)
